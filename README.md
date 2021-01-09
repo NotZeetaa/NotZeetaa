@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+### Hi Im NotZeetaa :D
 
 - 🔭 I’m currently working on My Repositories
 
