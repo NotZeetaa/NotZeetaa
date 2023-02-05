@@ -1,7 +1,7 @@
-### Hi Im NotZeetaa :D
+### Hellu I'm NotZeetaa :D
 
 - 🔧 I’m currently working on [Nexus Kernel](https://github.com/projects-nexus)
-- 🏋️‍♂️ Support [PixelOs](https://pixelos.net/) for alioth.
+- 🏋️‍♂️ Supporting [PixelOs](https://pixelos.net/) for alioth.
 - 🧑‍💻 Owner of [YAKT](https://github.com/NotZeetaa/YAKT)
 - ☕ [Donate](https://paypal.me/NotZeetaa) me a coffe :)
 
