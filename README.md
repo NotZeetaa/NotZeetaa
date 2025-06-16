@@ -5,7 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=flat&logo=linkedin)](www.linkedin.com/in/rodrigo-castro-b1a783274) 
 ![Profile Views](https://komarev.com/ghpvc/?username=NotZeetaa&style=flat-square&color=blueviolet)
 [![Telegram](https://img.shields.io/badge/-Message%20on%20Telegram-26A5E4?style=flat&logo=telegram)](https://t.me/NotZeetaa)
-[![Discord](https://img.shields.io/badge/-Chat%20on%20Discord-5865F2?style=flat&logo=discord)](https://discord.gg/NotZeetaa)
 
 ---
 
