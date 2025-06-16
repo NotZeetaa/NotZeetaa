@@ -2,9 +2,9 @@
 
 **Android Kernel Developer | Open-Source Enthusiast**  
 [![Instagram](https://img.shields.io/badge/-Follow%20me%20on%20Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/contenterodrigo) 
-[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=flat&logo=linkedin)](www.linkedin.com/in/rodrigo-castro-b1a783274) 
+[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-castro-b1a783274) 
+[![Telegram](https://img.shields.io/badge/-Message%20on%20Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/NotZeetaa)
 ![Profile Views](https://komarev.com/ghpvc/?username=NotZeetaa&style=flat-square&color=blueviolet)
-[![Telegram](https://img.shields.io/badge/-Message%20on%20Telegram-26A5E4?style=flat&logo=telegram)](https://t.me/NotZeetaa)
 
 ---
 
@@ -39,7 +39,7 @@ If you appreciate my projects, consider fueling my development journey:
 
 ## 🔧 Tech Stack
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
