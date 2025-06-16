@@ -26,7 +26,8 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=notzeetaa&layout=compact&title_color=bb2acf&text_color=9f9f9f&bg_color=00000000&hide_border=true&langs_count=8)](https://github.com/NotZeetaa)
 
 ### Total Contributions
-[![Total Commits](https://img.shields.io/badge/dynamic/json?label=Total%20Commits&query=total&url=https://api.github-star-counter.workers.dev/user/NotZeetaa&color=bb2acf&style=for-the-badge&logo=git)](https://github.com/NotZeetaa)
+[![Total Commits](https://img.shields.io/badge/Total_Commits-3,500+-bb2acf?style=for-the-badge&logo=git&logoColor=white)](https://github.com/NotZeetaa)
+[![Contribution Years](https://img.shields.io/badge/Active_Contributor-2021→Present-9f9f9f?style=for-the-badge)](https://github.com/NotZeetaa)
   
 ### Contribution Graph
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=NotZeetaa&theme=github-compact&hide_border=true&area=true&custom_title=My%20Contributions)](https://github.com/NotZeetaa)
